@@ -29,7 +29,7 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: white;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
   font-size: 16px;
   font-weight:700;
 }
@@ -135,6 +135,16 @@ body {
   font-size: 12px;
 
 }
+#contactme {
+  padding-top: 5em;
+  padding-left: 23em;
+  padding-right: 40em;
+  text-align: justify;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 12px;
+
+}
+
 
 #bold {
   font-weight: bold;
