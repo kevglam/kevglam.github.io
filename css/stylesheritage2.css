@@ -97,7 +97,7 @@ body {
   padding-right: 26.5em;
   font-family: 'Do Hyeon', sans-serif;
   font-size: 25px;
-  margin-bottom: 2em;
+
 }
 
 #title2 {
@@ -105,7 +105,7 @@ body {
   padding-right: 34.7em;
   font-family: 'Do Hyeon', sans-serif;
   font-size: 25px;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 #title3 {
   margin-top: 2em;
@@ -133,8 +133,8 @@ body {
 
 
 #description {
-  padding-left: 20.8em;
-  padding-right: 20.8em;
+  padding-left: 21.5em;
+  padding-right: 21.5em;
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 12px;
