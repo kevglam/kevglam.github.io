@@ -1,0 +1,50 @@
+/*********************************************
+
+This is the style file for this project.
+
+**********************************************/
+
+li {
+
+}
+
+nav {
+  list-style-type: none;
+  margin-bottom: 50px;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  font-family: sans-serif;
+}
+
+li a {
+  float: left;
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li:last-child
+{
+    float:right;
+}
+
+#yes{
+  text-align: center;
+  font-weight: bold;
+}
+
+#contact {
+  text-align: right;
+}
+
+#heritage2 {
+  text-align: center;
+}
+
+#video1 {
+  padding-right: 20px;
+}

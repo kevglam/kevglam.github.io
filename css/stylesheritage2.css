@@ -1,0 +1,141 @@
+/*********************************************
+
+This is the style file for this project.
+
+**********************************************/
+
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
+
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  cursor: crosshair;
+}
+
+#nav-border {
+  border-bottom: 1px solid lightgray;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.nav-link {
+  display:table-cell;
+  vertical-align: middle;
+}
+
+#top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+  font-weight:700;
+}
+
+
+.header-right {
+  display: flex;
+  justify-content: flex-start;
+  flex-grow: 1;
+}
+
+.header-right > li > a {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+  line-height: 60px;
+}
+
+.header-middle {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  font-size: 25px;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-weight: bold;
+}
+
+.header-middle > li > a {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+}
+
+.header-left {
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+
+.header-left > li >a {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+}
+
+#heritage2 {
+  text-align: center;
+
+
+}
+
+#title {
+  margin-top: 2em;
+  padding-right: 26.5em;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
+
+#title2 {
+  margin-top: 2em;
+  padding-right: 34.7em;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
+#title3 {
+  margin-top: 2em;
+  padding-right: 27.6em;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
+#titleheritage1 {
+  margin-top: 2em;
+  padding-right: 30.4em;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
+
+#titledc {
+  margin-top: 2em;
+  padding-right: 15em;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
+
+
+
+#description {
+  padding-left: 20.8em;
+  padding-right: 20.8em;
+  text-align: justify;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 12px;
+}

@@ -1,0 +1,141 @@
+/*********************************************
+
+This is the style file for this project.
+
+**********************************************/
+
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
+
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  cursor: crosshair;
+}
+
+#nav-border {
+  border-bottom: 1px solid lightgray;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+  font-weight:700;
+}
+
+.header-right {
+  display: flex;
+  justify-content: flex-start;
+  flex-grow: 1;
+}
+
+.header-right > li > a {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+  line-height: 60px;
+}
+
+.header-middle {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  font-size: 25px;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-weight: bold;
+}
+
+.header-middle > li > a {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+}
+
+.header-left {
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+
+.header-left > li >a {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+
+}
+
+.left-side-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-left: 20rem;
+
+}
+
+.right-side {
+  margin-right: 10rem;
+  text-align: justify;
+
+}
+
+.content {
+  padding: 20px;
+}
+
+#desc {
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+#desc2 {
+  font-family: 'Do Hyeon', sans-serif;
+  padding-left: 20px;
+}
+
+#portrait {
+  text-align: center;
+  padding-left: 30px;
+}
+
+#aboutme {
+  padding-top: 5em;
+  padding-left: 44em;
+  padding-right: 40em;
+  text-align: justify;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 12px;
+
+}
+
+#bold {
+  font-weight: bold;
+}
