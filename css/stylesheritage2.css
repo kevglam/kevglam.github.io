@@ -11,6 +11,8 @@ This is the style file for this project.
 body {
   margin-left: 0px;
   margin-right: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
   cursor: crosshair;
 }
 
@@ -130,7 +132,41 @@ body {
   margin-bottom: 2em;
 }
 
+#titlemt {
+  margin-top: 2em;
+  padding-right: 30em;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
 
+#mount {
+  margin-bottom: 20px;
+}
+
+#mountdesc01 {
+  padding-left: 21.5em;
+  padding-right: 21.5em;
+  text-align: justify;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 15px;
+}
+
+#mountdesc02 {
+  padding-left: 21.5em;
+  padding-right: 21.5em;
+  text-align: justify;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 15px;
+}
+
+#mountdesc03 {
+  padding-left: 21.5em;
+  padding-right: 21.5em;
+  text-align: justify;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 15px;
+}
 
 #description {
   padding-left: 21.5em;
