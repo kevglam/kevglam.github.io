@@ -11,8 +11,8 @@ This is the style file for this project.
 body {
   margin-left: 0px;
   margin-right: 0px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
   cursor: crosshair;
 }
 
