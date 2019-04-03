@@ -150,6 +150,7 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
   overflow: hidden;
+  width: 650px;
 }
 
 #mountdesc02 {
@@ -159,6 +160,7 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
   overflow: hidden;
+  width: 630px;
 }
 
 #mountdesc03 {
@@ -168,18 +170,14 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
   overflow: hidden;
+  width: 630px;
 }
 
 #description {
   padding-left: 21.5em;
-  padding-right: 21.5em;
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
   overflow: hidden;
-}
-
-#desccolor {
-
-
+  width: 630px;
 }
