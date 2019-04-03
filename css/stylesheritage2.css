@@ -143,6 +143,7 @@ body {
 }
 
 #mountdesc01 {
+
   padding-left: 21.5em;
   padding-right: 21.5em;
   text-align: justify;
@@ -172,4 +173,9 @@ body {
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
+}
+
+#desccolor {
+
+
 }
