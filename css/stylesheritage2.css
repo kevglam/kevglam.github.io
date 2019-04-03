@@ -144,41 +144,42 @@ body {
 
 #mountdesc01 {
 
-  padding-left: 21.5em;
-  padding-right: 21.5em;
+
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
   overflow: hidden;
+  margin:0 auto;
 
 }
 
 #mountdesc02 {
-  padding-left: 21.5em;
-  padding-right: 21.5em;
+
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
-  overflow: hidden;
+  max-width: 924px;
+  margin:0 auto;
 
 }
 
 #mountdesc03 {
+
   padding-left: 21.5em;
   padding-right: 21.5em;
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
-  overflow: hidden;
-
+max-width: 924px;
+margin:0 auto;
 }
 
 #description {
-  padding-left: 21.5em;
-  padding-right: 21.5em;
+
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 15px;
-  overflow: hidden;
+  max-width: 924px;
+  margin:0 auto;
 
 }
