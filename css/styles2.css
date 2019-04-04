@@ -123,13 +123,13 @@ body {
 
 #portrait {
   text-align: center;
-  padding-left: 30px;
+
 }
 
 #aboutme {
   padding-top: 5em;
-  padding-left: 44em;
-  padding-right: 40em;
+  max-width: 500px;
+  margin:0 auto;
   text-align: justify;
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 12px;
