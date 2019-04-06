@@ -29,8 +29,8 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: white;
-  font-family: 'Do Hyeon', sans-serif;
-  font-size: 16px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
   font-weight:700;
 }
 
@@ -131,8 +131,8 @@ body {
   max-width: 500px;
   margin:0 auto;
   text-align: justify;
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
 
 }
 #contactme {
@@ -140,7 +140,7 @@ body {
   padding-left: 22.7em;
   padding-right: 40em;
   text-align: justify;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
 
 }

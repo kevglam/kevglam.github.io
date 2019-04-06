@@ -6,6 +6,7 @@ This is the style file for this project.
 
 @import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
 
 body {
@@ -13,6 +14,7 @@ body {
   margin-right: 0px;
   cursor: crosshair;
 }
+
 
 #nav-border {
   border-bottom: 1px solid lightgray;
@@ -34,8 +36,8 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: white;
-  font-family: 'Do Hyeon', sans-serif;
-  font-size: 16px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
   font-weight:700;
 }
 
@@ -96,7 +98,7 @@ body {
 
   max-width: 924px;
   text-align: left;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 25px;
   margin: 0 auto;
   padding-top: 2em;
@@ -107,7 +109,7 @@ body {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 25px;
   margin-bottom: 1em;
   padding-top: 2em;
@@ -116,7 +118,7 @@ body {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 25px;
   margin-bottom: 2em;
 }
@@ -124,7 +126,7 @@ body {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 25px;
 
   padding-top: 2em;
@@ -134,9 +136,8 @@ body {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 25px;
-  margin-bottom: 2em;
   padding-top: 2em;
 }
 
@@ -144,7 +145,7 @@ body {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 25px;
   padding-top: 2em;
 }
@@ -157,7 +158,7 @@ body {
 
 
   text-align: justify;
-  font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   max-width: 924px;
   margin:0 auto;
@@ -167,7 +168,7 @@ body {
 #mountdesc02 {
 
   text-align: justify;
-  font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   max-width: 924px;
   margin:0 auto;
@@ -178,7 +179,7 @@ body {
 
 
   text-align: justify;
-  font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Montserrat', sans-serif;
   font-size: 15px;
 max-width: 924px;
 margin:0 auto;
@@ -188,7 +189,7 @@ margin-bottom: 2em;
 #description {
 
   text-align: justify;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   max-width: 924px;
   margin:0 auto;
