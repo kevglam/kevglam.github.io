@@ -8,6 +8,7 @@ This is the style file for this project.
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500');
 
 body {
   margin-left: 0px;
@@ -36,7 +37,7 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: white;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   font-weight:700;
 }
@@ -98,10 +99,11 @@ body {
 
   max-width: 924px;
   text-align: left;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 25px;
   margin: 0 auto;
   padding-top: 2em;
+  font-weight: 400;
 
 }
 
@@ -109,26 +111,28 @@ body {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 25px;
   margin-bottom: 1em;
   padding-top: 2em;
+  font-weight: 400;
 }
 #title3 {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 25px;
   margin-bottom: 2em;
+  font-weight: 400;
 }
 #titleheritage1 {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 25px;
-
+font-weight: 400;
   padding-top: 2em;
 }
 
@@ -136,18 +140,20 @@ body {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 25px;
   padding-top: 2em;
+  font-weight: 400;
 }
 
 #titlemt {
   max-width: 924px;
   text-align: left;
   margin: 0 auto;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 25px;
   padding-top: 2em;
+  font-weight: 400;
 }
 
 #mount {
@@ -158,7 +164,7 @@ body {
 
 
   text-align: justify;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
   font-size: 15px;
   max-width: 924px;
   margin:0 auto;
@@ -168,7 +174,7 @@ body {
 #mountdesc02 {
 
   text-align: justify;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
   font-size: 15px;
   max-width: 924px;
   margin:0 auto;
@@ -179,7 +185,7 @@ body {
 
 
   text-align: justify;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
   font-size: 15px;
 max-width: 924px;
 margin:0 auto;
@@ -189,7 +195,7 @@ margin-bottom: 2em;
 #description {
 
   text-align: justify;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   max-width: 924px;
   margin:0 auto;

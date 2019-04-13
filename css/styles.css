@@ -7,6 +7,7 @@ This is the style file for this project.
 @import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500');
 
 
 body {
@@ -30,7 +31,7 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: white;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   font-weight:700;
 }
@@ -121,11 +122,15 @@ body {
 }
 
 #desc {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight:700;
+  font-size: 15px;
 }
 
 #desc2 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight:700;
+  font-size: 15px;
 
 
 }
