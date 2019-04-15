@@ -16,6 +16,9 @@ body {
   cursor: crosshair;
 }
 
+#cent {
+  text-align: center;
+}
 
 #nav-border {
   border-bottom: 1px solid lightgray;
@@ -158,6 +161,9 @@ font-weight: 400;
 
 #mount {
   margin-bottom: 20px;
+}
+#mountfront {
+  text-align: center;
 }
 
 #mountdesc01 {
