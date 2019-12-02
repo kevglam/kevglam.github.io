@@ -40,7 +40,15 @@ body {
   flex-direction: column;
   flex: 1;
   padding-top: 200px;
-  padding-bottom: 200px;
+  padding-bottom: 150px;
+
+}
+
+#worktitle {
+
+  margin-left: 50px;
+  margin-top: -60px;
+  margin-bottom: 40px;
 }
 
 .row {
@@ -71,7 +79,9 @@ body {
 }
 
 .preview {
-  width: 100%
+  width: 100%;
+  margin-bottom: 10px;
+
 }
 
 .title-container {
@@ -85,16 +95,19 @@ body {
 
 .title span:last-of-type {
   font-weight: 200;
+  font-size: 13px;
 }
 
 .description {
   font-weight: 200;
-  font-size: 13px;
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .category {
   font-family: 'Overpass Mono', monospace;
   font-weight: 700;
-  font-size: 13px;
+  font-size: 12px;
   color: #4D4D4D
 }

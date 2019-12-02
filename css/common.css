@@ -1,7 +1,5 @@
 body {
   margin: 0px;
-  margin-top: -3px;
-
   font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -22,8 +20,8 @@ body {
   width: 100%;
   overflow: hidden;
   background-color: transparent;
-  font-family: 'Poppins', sans-serif;
-  font-size: 15px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 18px;
   font-weight:700;
   z-index: 999;
 }
@@ -32,7 +30,7 @@ body {
   display: flex;
   justify-content: flex-start;
   flex: 1;
-  margin-left: 75px;
+  margin-left: 30px;
 }
 
 #header-right {
@@ -40,13 +38,14 @@ body {
   justify-content: flex-end;
   flex: 1;
   margin-right: 75px;
+  margin-top: 17px;
 }
 
 #header-right > li > a {
   display: inline;
   color: white;
   text-align: center;
-  padding: 14px 10px;
+  padding: 14px 20px;
   text-decoration: none;
   line-height: 60px;
 }
@@ -98,6 +97,9 @@ footer {
   flex: 1;
   justify-content: flex-start;
   margin-left: 8px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  font-size: 13px;
 }
 
 .footer-right {
@@ -106,6 +108,10 @@ footer {
   flex: 1;
   justify-content: flex-end;
   margin-right: 50px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  color: black;
 }
 
 .footer-left > span:first-of-type {

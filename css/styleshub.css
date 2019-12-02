@@ -18,6 +18,7 @@ body {
 }
 
 #cent {
+  margin-top: 200px;
   text-align: center;
 }
 
@@ -25,13 +26,14 @@ body {
   text-align: center;
 }
 
-#title {
+#titledc {
   max-width: 700px;
   text-align: left;
   font-family: 'Nunito Sans', sans-serif;
   font-size: 33px;
   margin: 0 auto;
-  margin-top: 120px;
+  margin-top: 150px;
+  margin-bottom: 40px;
   font-weight: 800;
 
 }
@@ -57,8 +59,8 @@ body {
 }
 
 
-#rebirthtitle {
-  margin-top: 50px;
+#ambitiontitle {
+  margin-top: 75px;
   margin-bottom: 30px;
 }
 
@@ -85,7 +87,7 @@ body {
   font-size: 15px;
   max-width: 700px;
   margin:0 auto;
-  margin-bottom: 80px;
+  margin-bottom: 2em;
   margin-top: 75px;
 }
 
