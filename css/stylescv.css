@@ -3,11 +3,8 @@
 This is the style file for this project.
 
 **********************************************/
-
-@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:200,200i,400,400i,700,700i,800,800i&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500');
 
 body {
   margin-left: 0px;
@@ -50,47 +47,6 @@ body {
   padding: 20px;
 }
 
-#title {
-    font-weight: bold;
-    font-family: 'Do Hyeon', sans-serif;
-}
-
-#cv {
-  font-family: 'Noto Sans TC', sans-serif;
-padding-left: 17em;
-}
-
-#concordia {
-  margin-bottom: 5em;
-  font-size: 12px;
-}
-
-#brebeuf1 {
-
-  font-size: 12px;
-}
-
-#brebeuf2 {
-  font-size: 12px;
-}
-
-#desc {
-  font-family: 'Do Hyeon', sans-serif;
-}
-
-#desc2 {
-  font-family: 'Do Hyeon', sans-serif;
-  padding-left: 20px;
-}
-
-#seperator {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
-#divide {
-  margin-bottom: 5em;
-}
 
 #CVimage {
  text-align: center;
