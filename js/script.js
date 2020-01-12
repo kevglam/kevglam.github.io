@@ -49,4 +49,40 @@ $(this).css("color", "#FDBD06");
 }, function(){
 $(this).css("color", "black");
 });
+
+$("#kalifront").hover(function(){
+$(this).attr("src", "assets/images/front/kalifront_ys.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/kalifront.jpg");
+});
+
+$("#helenfront").hover(function(){
+$(this).attr("src", "assets/images/front/heritagefront2_ys.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/heritagefront2.jpg");
+});
+
+$("#mountfront").hover(function(){
+$(this).attr("src", "assets/images/front/mountfront_ys.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/mountfront.jpg");
+});
+
+$("#christyfront").hover(function(){
+$(this).attr("src", "assets/images/front/heritagefront_ys.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/heritagefront.jpg");
+});
+
+$("#hubfront").hover(function(){
+$(this).attr("src", "assets/images/front/hubfront_ys.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/hubfront.jpg");
+});
+
+$("#dcartfront").hover(function(){
+$(this).attr("src", "assets/images/front/dcartfront_ys.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/dcartfront.jpg");
+});
 }
