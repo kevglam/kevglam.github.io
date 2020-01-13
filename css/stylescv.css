@@ -3,83 +3,16 @@
 This is the style file for this project.
 
 **********************************************/
-
-@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:200,200i,400,400i,700,700i,800,800i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:300,400,600,700&display=swap');
 
 body {
   margin-left: 0px;
   margin-right: 0px;
-  cursor: crosshair;
 }
 
-#nav-border {
-  border-bottom: 1px solid lightgray;
-  width: 100%;
-  margin-top: 20px;
-}
-
-#top-nav {
-  display: flex;
-  flex-wrap: wrap;
-  list-style-type: none;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  padding: 0;
-  overflow: hidden;
-  background-color: white;
-  font-family: 'Poppins', sans-serif;
-  font-size: 15px;
-  font-weight:700;
-}
-
-
-.header-right {
-  display: flex;
-  justify-content: flex-start;
-  flex-grow: 1;
-}
-
-.header-right > li > a {
-  display: inline;
+#header-right > li > a {
   color: black;
-  text-align: center;
-  padding: 14px 10px;
-  text-decoration: none;
-  line-height: 60px;
-}
-
-.header-middle {
-  display: flex;
-  justify-content: center;
-  flex-grow: 1;
-  font-size: 25px;
-  font-family: 'Noto Sans TC', sans-serif;
-  font-weight: bold;
-}
-
-.header-middle > li > a {
-  display: inline;
-  color: black;
-  text-align: center;
-  padding: 14px 10px;
-  text-decoration: none;
-}
-
-.header-left {
-  display: flex;
-  justify-content: flex-end;
-  flex-grow: 1;
-}
-
-.header-left > li >a {
-  display: inline;
-  color: black;
-  text-align: center;
-  padding: 14px 10px;
-  text-decoration: none;
 }
 
 .gallery {
@@ -114,47 +47,6 @@ body {
   padding: 20px;
 }
 
-#title {
-    font-weight: bold;
-    font-family: 'Do Hyeon', sans-serif;
-}
-
-#cv {
-  font-family: 'Noto Sans TC', sans-serif;
-padding-left: 17em;
-}
-
-#concordia {
-  margin-bottom: 5em;
-  font-size: 12px;
-}
-
-#brebeuf1 {
-
-  font-size: 12px;
-}
-
-#brebeuf2 {
-  font-size: 12px;
-}
-
-#desc {
-  font-family: 'Do Hyeon', sans-serif;
-}
-
-#desc2 {
-  font-family: 'Do Hyeon', sans-serif;
-  padding-left: 20px;
-}
-
-#seperator {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
-#divide {
-  margin-bottom: 5em;
-}
 
 #CVimage {
  text-align: center;

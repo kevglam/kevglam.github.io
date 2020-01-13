@@ -1,48 +1,129 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link rel="icon" href="assets/images/icarusicon.png">
-    <meta charset="utf-8">
-    <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
+<head>
+  <link rel="icon" href="assets/images/icarusicon.png">
+  <meta charset="utf-8">
+  <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
 
-    <!-- CSS stylesheet(s) -->
-    <link rel="stylesheet" type="text/css" href="css/styles.css" />
-    <script
+  <!-- CSS stylesheet(s) -->
+  <link rel="stylesheet" type="text/css" href="css/common.css" />
+  <link rel="stylesheet" type="text/css" href="css/styles.css" />
+
+  <!-- Libraries -->
+
+  <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
-
   <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
   <script
   src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
   integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
   crossorigin="anonymous"></script>
 
-    <!-- Libraries -->
+  <!-- My script(s) -->
+  <script src="js/script.js"></script>
+</head>
 
-    <!-- My script(s) -->
-    <script src="js/script.js"></script>
-  </head>
-
-  <nav id="top-nav">
-    <div class="header-right">
-      <li><a class="nav-link" href="index.html"><img src="assets/images/icarustop.png" id="logo" align="middle" width="240" height="75"></a></li>
-      <li><a class="nav-link" href="about.html">about</a></li>
-      <li><a class="nav-link" href="index3.html">work</a></li>
-      <li><a class="nav-link" href="cv.html">cv</a></li>
-      <li><a class="nav-link" href="contact.html">contact</a></li>
-    </div>
+<nav id="top-nav">
+  <div id="header-left">
+    <li><a class="nav-link" href="index.html"><img src="assets/images/Icarus/icaruslogo_websitewhit.svg" id="logo" align="middle" width="310" height="138"></a></li>
+  </div>
+  <div id="header-right">
+    <li><a class="nav-link" id="about" href="about.html">about</a></li>
+    <li><a class="nav-link" id="work" href="#work-container">work</a></li>
+    <li><a class="nav-link" id="cv" href="cv.html">cv</a></li>
+  </div>
 </nav>
 
-</div>
-
 <body>
-  <a href="index3.html">
-  <video id="intro" width="920" height="518" autoplay loop muted>
-    <source src="assets/videos/introo.mp4" type="video/mp4">
-  </video>
-  </a>
+  <div id="page-container">
+    <div id="video-container">
+      <video id="intro-video" autoplay loop muted>
+        <source src="assets/videos/intronew2.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div id="work-container">
+        <div id="worktitle">
+          <img src="assets/images/work.svg" id="worktitle" align="middle">
+        </div>
 
-</body>
+        <div class="row">
+          <div class="column">
+            <div class="content">
+              <a href="heritage3.html">
+                <img class="preview" src="assets/images/front/kalifront.jpg" id="kalifront" align="middle">
+              </a>
+              <div class="title"> <span>Heritage III: Ambition</span>&nbsp;<span>2019</span></div>
+              <div class="description"> <span>Multimedia series that embodies emotions of ambition and what this means to asian americans</span></div>
+              <div class="category">multimedia - video - posters - advertisement </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="content">
+              <a href="heritage2.html">
+                <img class="preview" src="assets/images/front/heritagefront2.jpg" id="helenfront" align="middle">
+              </a>
+              <div class="title"> <span>Heritage II: Rebirth</span>&nbsp;<span>2018</span></div>
+              <div class="description"> <span>Multimedia series on the theme of life & death in asian american culture</span></div>
+              <div class="category">multimedia - video - posters - advertisement </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="content">
+              <a href="mountain.html">
+                <img class="preview" src="assets/images/front/mountfront.jpg" id="mountfront" align="middle">
+              </a>
+              <div class="title"> <span>Mountain</span>&nbsp;<span>2017</span></div>
+              <div class="description"> <span>Poster series echoing the Quantified Self Movement as well as dealing with the theme of ego</span></div>
+              <div class="category">posters - graphics </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="column">
+            <div class="content">
+              <a href="heritage1.html">
+                <img class="preview" src="assets/images/front/heritagefront.jpg" id="christyfront" align="middle">
+              </a>
+              <div class="title"> <span>Heritage I: Homecoming</span>&nbsp;<span>2016</span></div>
+              <div class="description"> <span>Multimedia series highlighting the melting pot of culture in neo-asian american culture</span>&nbsp;<span></span></div>
+              <div class="category">multimedia - video - posters - photography </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="content">
+              <a href="hub.html">
+                <img class="preview" src="assets/images/front/hubfront.jpg" id="hubfront" align="middle">
+              </a>
+              <div class="title"> <span>The Hub Logo</span>&nbsp;<span>2018</span></div>
+              <div class="description"> <span>Logo iterations and color palette for a space within Concordia University</span></div>
+              <div class="category">visual identity - logo </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="content">
+              <a href="dcart.html">
+                <img class="preview" src="assets/images/front/dcartfront.jpg" id="dcartfront" align="middle">
+              </a>
+              <div class="title"><span>Focal Points / Points Focaux Exhibition Posters</span> &nbsp;<span>2019</span></div>
+              <div class="description"> <span>Promotional posters for the Concordia University Design and Computation Arts year-end show</span></div>
+              <div class="category">posters </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <footer>
+    <div class="footer-left">
+      <span>ig. @kevthemainman</span>
 
-</html>
+      <span>bē. /kevglam</span>
+    </div>
+    <div class="footer-right">
+      <span>e. keving_lam@outlook.com</span>
+      <span>tel. +1 514 243 9595</span>
+    </div>
+    <footer>
+      </html>
