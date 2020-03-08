@@ -63,9 +63,9 @@ $(this).attr("src", "assets/images/front/heritagefront2.jpg");
 });
 
 $("#mountfront").hover(function(){
-$(this).attr("src", "assets/images/front/mountfront_ys.jpg");
+$(this).attr("src", "assets/images/front/interludefront_y.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/mountfront.jpg");
+$(this).attr("src", "assets/images/front/interludefront.jpg");
 });
 
 $("#christyfront").hover(function(){
