@@ -75,9 +75,9 @@ $(this).attr("src", "assets/images/front/heritagefront.jpg");
 });
 
 $("#hubfront").hover(function(){
-$(this).attr("src", "assets/images/front/hubfront_ys.jpg");
+$(this).attr("src", "assets/images/front/paletticafront_y.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/hubfront.jpg");
+$(this).attr("src", "assets/images/front/paletticafront2.jpg");
 });
 
 $("#dcartfront").hover(function(){
