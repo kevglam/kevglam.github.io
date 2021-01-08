@@ -99,8 +99,8 @@ footer {
   margin-left: 8px;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
-  font-size: 13px;
-  color: #FDBD06;
+  font-size: 14px;
+  color: #810FF5;
 }
 
 .footer-right {
@@ -111,8 +111,8 @@ footer {
   margin-right: 50px;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 800;
-  font-size: 13px;
-  color: #fdbd06;
+  font-size: 14px;
+  color: #810FF5;
 }
 
 .footer-left > span:first-of-type {
