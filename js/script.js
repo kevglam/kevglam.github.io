@@ -71,7 +71,7 @@ $(this).attr("src", "assets/images/front/interludefront.jpg");
 $("#christyfront").hover(function(){
 $(this).attr("src", "assets/images/clickme_y.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/heritagefront.jpg");
+$(this).attr("src", "assets/images/front/chimerafront.jpg");
 });
 
 $("#hubfront").hover(function(){
@@ -83,7 +83,7 @@ $(this).attr("src", "assets/images/front/paletticafront2.jpg");
 $("#dcartfront").hover(function(){
 $(this).attr("src", "assets/images/clickme_y.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/dcartfront.jpg");
+$(this).attr("src", "assets/images/front/highlinefront.jpg");
 });
 
 

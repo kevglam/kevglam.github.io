@@ -20,6 +20,7 @@ body {
 
 #cent {
   margin-top: 200px;
+  margin-bottom: 200px;
   text-align: center;
 }
 
@@ -80,6 +81,7 @@ body {
   margin-bottom: 100px;
 }
 
+
 #condescription {
 
   text-align: left;
@@ -109,8 +111,20 @@ body {
   font-size: 18px;
   max-width: 700px;
   margin:0 auto;
+  margin-bottom: 200px;
+
+}
+
+#description3 {
+
+  text-align: left;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+  max-width: 700px;
+  margin:0 auto;
   margin-bottom: 100px;
-  margin-top: 100px;
+  margin-top: 150px;
 
 }
 
@@ -141,6 +155,12 @@ body {
 
 #minerpage {
   margin-top: 100px;
+
+}
+
+#highfoot {
+  margin-top: 300px;
+  margin-bottom: 300px;
 
 }
 
