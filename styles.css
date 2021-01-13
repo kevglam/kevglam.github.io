@@ -1,0 +1,114 @@
+/*********************************************
+
+This is the style file for this project.
+
+**********************************************/
+
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:200,200i,400,400i,700,700i,800,800i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:300,400,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+body {
+  margin: 0px;
+  margin-top: -3px;
+
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#nav-border {
+  border-bottom: 1px solid lightgray;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#page-container {
+  display: flex;
+  flex-direction: column;
+}
+
+#video-container {
+  display: flex;
+  flex: 1
+}
+
+#intro-video {
+  width: 100%;
+  height: 100%;
+}
+
+#work-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding-top: 200px;
+  padding-bottom: 150px;
+
+}
+
+#worktitle {
+
+  margin-left: 50px;
+  margin-top: -60px;
+  margin-bottom: 40px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  justify-content: center;
+  margin-right: 165px;
+  margin-left: 165px;
+}
+
+.row:last-child {
+  margin-top: 75px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex:1;
+}
+
+.column:first-child {
+  margin-right: 45px;
+}
+
+.column:last-child {
+  margin-left: 45px;
+}
+
+.preview {
+  width: 100%;
+  margin-bottom: 10px;
+
+}
+
+.title-container {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.title span:first-of-type {
+  font-weight: 800;
+}
+
+.title span:last-of-type {
+  font-weight: 200;
+  font-size: 14px;
+}
+
+.description {
+  font-weight: 200;
+  font-size: 13px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.category {
+  font-family: 'Overpass Mono', monospace;
+  font-weight: 700;
+  font-size: 12px;
+  color: #4D4D4D
+}
