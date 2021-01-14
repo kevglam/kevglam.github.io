@@ -86,5 +86,17 @@ $(this).attr("src", "assets/images/clickme_y.jpg");
 $(this).attr("src", "assets/images/front/highlinefront.jpg");
 });
 
+$("#downloadcv").hover(function(){
+$(this).attr("src", "assets/images/downloadcv2.svg");
+}, function(){
+$(this).attr("src", "assets/images/downloadcv.svg");
+});
+
+$("#seemoreani").hover(function(){
+$(this).attr("src", "assets/images/seemore2.svg");
+}, function(){
+$(this).attr("src", "assets/images/seemore.svg");
+});
+
 
 }

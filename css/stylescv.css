@@ -16,6 +16,11 @@ body {
   color: black;
 }
 
+#download {
+
+margin-bottom: 80px;
+}
+
 .gallery {
   display: flex;
   flex-direction: column;
