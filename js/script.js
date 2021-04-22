@@ -98,5 +98,11 @@ $(this).attr("src", "assets/images/seemore2.svg");
 $(this).attr("src", "assets/images/seemore.svg");
 });
 
+$("#behan").hover(function(){
+$(this).attr("src", "assets/images/behance2.svg");
+}, function(){
+$(this).attr("src", "assets/images/behance.svg");
+});
+
 
 }
