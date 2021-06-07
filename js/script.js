@@ -59,7 +59,7 @@ $(this).attr("src", "assets/images/front/kalifront.jpg");
 $("#helenfront").hover(function(){
 $(this).attr("src", "assets/images/clickme_y.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/heritagefront2.jpg");
+$(this).attr("src", "assets/images/frontjomo.jpg");
 });
 
 $("#mountfront").hover(function(){
