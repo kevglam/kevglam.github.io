@@ -83,7 +83,7 @@ $(this).attr("src", "assets/images/front/paletticafront2.jpg");
 $("#dcartfront").hover(function(){
 $(this).attr("src", "assets/images/clickme_y.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/highlinefront.jpg");
+$(this).attr("src", "assets/images/grayfront.jpg");
 });
 
 $("#downloadcv").hover(function(){
