@@ -77,7 +77,7 @@ $(this).attr("src", "assets/images/front/chimerafront.jpg");
 $("#hubfront").hover(function(){
 $(this).attr("src", "assets/images/clickme_y.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/paletticafront2.jpg");
+$(this).attr("src", "assets/images/front/ryusumfront.jpg");
 });
 
 $("#dcartfront").hover(function(){
