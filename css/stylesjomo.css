@@ -27,8 +27,12 @@ body {
   margin-top: -150px;
 }
 
+#reduc3 {
+  margin-top: -150px;
+}
+
 #reduc2 {
-  margin-top: -100px;
+  margin-top: 300px;
   margin-bottom: 300px;
 }
 
@@ -253,7 +257,7 @@ body {
 
 #work-containertitle {
    margin-bottom: 100px;
-   margin-top: 300px;
+   margin-top: 200px;
 }
 
 #work-container2 {
