@@ -15,93 +15,93 @@ function setup() {
 
 
     $("#about").hover(function(){
-  $(this).css("color", "#810FF5");
+  $(this).css("color", "#14d774");
   }, function(){
   $(this).css("color", "white");
 });
 
 $("#work").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#14d774");
 }, function(){
 $(this).css("color", "white");
 });
 
 $("#cv").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#14d774");
 }, function(){
 $(this).css("color", "white");
 });
 
 $("#about2").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#14d774");
 }, function(){
 $(this).css("color", "black");
 });
 
 $("#work2").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#14d774");
 }, function(){
 $(this).css("color", "black");
 });
 
 $("#cv2").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#14d774");
 }, function(){
 $(this).css("color", "black");
 });
 
 $("#kalifront").hover(function(){
-$(this).attr("src", "assets/images/clickme_y.jpg");
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
 $(this).attr("src", "assets/images/front/kalifront.jpg");
 });
 
 $("#helenfront").hover(function(){
-$(this).attr("src", "assets/images/clickme_y.jpg");
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
 $(this).attr("src", "assets/images/front/jomofront.jpg");
 });
 
 $("#mountfront").hover(function(){
-$(this).attr("src", "assets/images/clickme_y.jpg");
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
 $(this).attr("src", "assets/images/front/interludefront.jpg");
 });
 
 $("#christyfront").hover(function(){
-$(this).attr("src", "assets/images/clickme_y.jpg");
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
 $(this).attr("src", "assets/images/front/chimerafront.jpg");
 });
 
 $("#hubfront").hover(function(){
-$(this).attr("src", "assets/images/clickme_y.jpg");
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
 $(this).attr("src", "assets/images/front/ryusumfront.jpg");
 });
 
 $("#dcartfront").hover(function(){
-$(this).attr("src", "assets/images/clickme_y.jpg");
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
 $(this).attr("src", "assets/images/grayfront.jpg");
 });
 
 $("#downloadcv").hover(function(){
-$(this).attr("src", "assets/images/downloadcv2.svg");
+$(this).attr("src", "assets/images/jadedownloadcv2.svg");
 }, function(){
-$(this).attr("src", "assets/images/downloadcv.svg");
+$(this).attr("src", "assets/images/jadedownloadcv.svg");
 });
 
 $("#seemoreani").hover(function(){
-$(this).attr("src", "assets/images/seemore2.svg");
+$(this).attr("src", "assets/images/jadeseemore2.svg");
 }, function(){
-$(this).attr("src", "assets/images/seemore.svg");
+$(this).attr("src", "assets/images/jadeseemore.svg");
 });
 
 $("#behan").hover(function(){
-$(this).attr("src", "assets/images/behance2.svg");
+$(this).attr("src", "assets/images/jadebehance2.svg");
 }, function(){
-$(this).attr("src", "assets/images/behance.svg");
+$(this).attr("src", "assets/images/jadebehance.svg");
 });
 
 
