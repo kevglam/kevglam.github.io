@@ -56,6 +56,12 @@ $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 $(this).attr("src", "assets/images/front/kalifront.jpg");
 });
 
+$("#kalifront2").hover(function(){
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/ryubag.jpg");
+});
+
 $("#helenfront").hover(function(){
 $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
@@ -80,10 +86,22 @@ $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 $(this).attr("src", "assets/images/front/ryusumfront.jpg");
 });
 
+$("#hubfront2").hover(function(){
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/ryucolfront.jpg");
+});
+
 $("#dcartfront").hover(function(){
 $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
 $(this).attr("src", "assets/images/grayfront.jpg");
+});
+
+$("#dcartfront2").hover(function(){
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/ryuvaporfront.jpg");
 });
 
 $("#downloadcv").hover(function(){
