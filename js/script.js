@@ -71,7 +71,7 @@ $(this).attr("src", "assets/images/front/jomofront.jpg");
 $("#mountfront").hover(function(){
 $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
-$(this).attr("src", "assets/images/front/interludefront.jpg");
+$(this).attr("src", "assets/images/front/audiblefront.jpg");
 });
 
 $("#christyfront").hover(function(){
