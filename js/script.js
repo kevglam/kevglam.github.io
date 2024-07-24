@@ -95,7 +95,7 @@ $(this).attr("src", "assets/images/front/ryucolfront.jpg");
 $("#dcartfront").hover(function(){
 $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
-$(this).attr("src", "assets/images/grayfront.jpg");
+$(this).attr("src", "assets/images/front/marvelfront.jpg");
 });
 
 $("#dcartfront2").hover(function(){
