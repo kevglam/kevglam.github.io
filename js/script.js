@@ -86,6 +86,12 @@ $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 $(this).attr("src", "assets/images/front/ryusumfront.jpg");
 });
 
+$("#riotfront").hover(function(){
+$(this).attr("src", "assets/images/front/jadeclick2.jpg");
+}, function(){
+$(this).attr("src", "assets/images/front/riotfront.jpg");
+});
+
 $("#hubfront2").hover(function(){
 $(this).attr("src", "assets/images/front/jadeclick2.jpg");
 }, function(){
