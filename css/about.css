@@ -172,9 +172,8 @@ body {
 }
 
 #reach {
-  text-align: center;
-  font-family: 'Rubik Mono One', sans-serif;
-
+  text-align: left;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 20px;
   color: black;
 
