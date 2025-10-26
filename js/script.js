@@ -101,7 +101,7 @@ $(this).attr("src", "assets/images/pmcf/walkheader.jpg");
 $("#samfront").hover(function(){
 $(this).attr("src", "assets/images/front/napalmclick.jpg");
 }, function(){
-$(this).attr("src", "assets/images/silver/front.jpg");
+$(this).attr("src", "assets/images/front/silver.jpg");
 });
 
 $("#hubfront2").hover(function(){
